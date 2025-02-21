@@ -1,17 +1,22 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Generalidades de la carne',
+    Description:
+      'El componente formativo aborda la estructura y composición química de la carne, incluyendo tejidos musculares, proteínas, grasas, carbohidratos, vitaminas y minerales. También analiza sus características sensoriales como jugosidad, textura, aroma y sabor, destacando la reacción de Maillard. Además, considera factores que influyen en la calidad, como el pH, maduración y manejo post-mortem.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -31,27 +36,51 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'La carne',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Subtema 1',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Composición química de la carne',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Proteínas',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'El agua',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Grasas',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Carbohidratos',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Vitaminas',
+            hash: 't_2_5',
+          },
+          {
+            numero: '2.6',
+            titulo: 'Minerales',
+            hash: 't_2_6',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Características sensoriales de la carne',
         desarrolloContenidos: true,
       },
     ],
