@@ -131,21 +131,108 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Composición química de la carne.',
+      referencia:
+        'Jose Lobo Gomez. (2021). <i>BROMATOLOGIA: CARNE</i>. [Archivo de video] YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=984v3Rkbyyc&ab_channel=JoseLoboGomez',
+    },
+    {
+      tema: 'Composición química de la carne.',
+      referencia: 'Fedecarne (s.f.). <i>Guía nutricional de la carne</i>.',
+      tipo: 'Documento',
+      link:
+        'https://www.fen.org.es/aplicaciones/fedecarne-fen/pdf/guianutricion.pdf',
+    },
+    {
+      tema: 'Características sensoriales de la carne.',
+      referencia:
+        'Sánchez, I. C., & Albarracín, W. (2010). <i>Análisis sensorial en carne</i>. Revista Colombiana de Ciencias Pecuarias, 23(2), 227-239.',
+      tipo: 'Documento ',
+      link: 'https://www.redalyc.org/pdf/2950/295023450012.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Carne',
+      significado:
+        'parte comestible de los músculos de animales como mamíferos, aves y peces, utilizada en la alimentación humana.',
+    },
+    {
+      termino: 'Mioglobina',
+      significado:
+        'proteína responsable del color rojo de la carne, presente en mayor cantidad en carnes oscuras y animales con más actividad física.',
+    },
+    {
+      termino: 'Colágeno',
+      significado:
+        'proteína estructural del tejido conectivo que aporta resistencia a los músculos y afecta la textura de la carne.',
+    },
+    {
+      termino: 'Epimisio',
+      significado:
+        'capa externa del músculo compuesta por tejido conectivo que agrupa las fibras musculares en secciones.',
+    },
+    {
+      termino: 'Reacción de Maillard',
+      significado:
+        'proceso químico entre proteínas y azúcares que ocurre durante la cocción, generando coloración y aroma en la carne.',
+    },
+    {
+      termino: 'Jugosidad',
+      significado:
+        'característica sensorial de la carne relacionada con su contenido de agua y grasa, que influye en su percepción al masticarla.',
+    },
+    {
+      termino: 'Textura',
+      significado:
+        'propiedad de la carne determinada por la cantidad de colágeno, maduración, edad del animal y métodos de cocción.',
+    },
+    {
+      termino: 'Grasas intramusculares',
+      significado:
+        'lípidos presentes entre las fibras musculares que afectan la jugosidad, sabor y calidad de la carne.',
+    },
+    {
+      termino: 'Proteínas miofibrilares',
+      significado:
+        'proteínas estructurales del músculo como la actina y la miosina, esenciales para la contracción muscular y retención de agua en la carne.',
+    },
+    {
+      termino: 'Maduración de la carne',
+      significado:
+        'proceso <i>post-mortem</i> que mejora la ternura y el sabor mediante la acción de enzimas que descomponen las proteínas musculares.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Amézquita, A., Arango, C., Restrepo, D. y Restrepo, R. (2001). <i>Industria de carnes</i>. Medellín, Colombia: Universidad Nacional.',
+      link: '',
+    },
+    {
+      referencia: 'Fotolia. (s.f.). <i>Carnes</i>. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Guerrero, I., Hui, Y. y Rosmini, M. (2012). <i>Ciencia y tecnología de la carne</i>. México: Limusa. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Maya, J. (2010). <i>Manejo y procesamiento de carnes</i>. Pasto, Colombia: Universidad Nacional Abierta y a Distancia. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Onega, P. (2003). <i>Evaluación de la calidad de carne fresca: aplicación de técnicas analíticas instrumentales y sensoriales</i>. Madrid, España: Universidad Complutense de Madrid. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Ramírez, R. (2006). <i>Tecnología de cárnicos</i>. Bogotá, Colombia: Universidad Nacional. ',
       link: '',
     },
   ],
@@ -154,14 +241,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermudez Jaimes',
+          cargo: 'Responsable de Línea de Producción Huila',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -169,9 +256,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ángela Viviana Páez Perilla',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora Instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -179,19 +273,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carlos Julián Ramírez Benítez',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete Lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
