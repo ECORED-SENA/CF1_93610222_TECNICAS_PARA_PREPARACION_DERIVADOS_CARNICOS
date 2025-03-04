@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Generalidades de la carne',
     Description:
-      'El componente formativo aborda la estructura y composición química de la carne, incluyendo tejidos musculares, proteínas, grasas, carbohidratos, vitaminas y minerales. También analiza sus características sensoriales como jugosidad, textura, aroma y sabor, destacando la reacción de Maillard. Además, considera factores que influyen en la calidad, como el pH, maduración y manejo post-mortem.',
+      'El componente formativo aborda la estructura y composición química de la carne, incluyendo tejidos musculares, proteínas, grasas, carbohidratos, vitaminas y minerales. También analiza sus características sensoriales como jugosidad, textura, aroma y sabor, destacando la reacción de <i>Maillard</i>. Además, considera factores que influyen en la calidad, como el pH, maduración y manejo <i>post-mortem</i>.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -308,14 +308,16 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Raúl Mosquera Serrano',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },

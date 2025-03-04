@@ -34,7 +34,7 @@
     background-image: url("../assets/curso/portada/fondo-banner-principal2.png") !important
 
 .banner-principal__row .banner-principal__img
-  width: 420px !important  
+  width: 400px !important  
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $color-sistema-texto !important
@@ -115,8 +115,10 @@ figcaption
     margin-inline: -3.2rem !important
   &-c10
     background-color: #8F6C69
+    height: 100%
   &-c11
     background-color: #706C65
+    height: 100%
   &-c12
     background-color: #F8E1DF
   &-c13
@@ -140,3 +142,11 @@ figcaption
     transition: all 0.3s ease-in-out
   &-c18:hover
     background-color: #E2DACC
+  &-c19
+    height: 240px
+    @media screen and ( max-width: $bp-max-xl )
+      height: 190px
+    @media screen and ( max-width: $bp-max-lg )
+      height: 100%
+  &-c20
+    background-color: #F6EFBF

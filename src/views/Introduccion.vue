@@ -10,7 +10,7 @@
     .row.bg-c1
       .col-12
         .px-5.pt-5
-          p(data-aos="fade-down") La carne es un alimento fundamental en la dieta humana debido a su alto contenido de proteínas, grasas, vitaminas y minerales esenciales. Su composición varía según la especie animal, la edad y el manejo post-mortem, lo que influye en sus características sensoriales y nutricionales. Comprender su estructura y propiedades permite optimizar su calidad para el consumo.
+          p(data-aos="fade-down") La carne es un alimento fundamental en la dieta humana debido a su alto contenido de proteínas, grasas, vitaminas y minerales esenciales. Su composición varía según la especie animal, la edad y el manejo #[i post-mortem], lo que influye en sus características sensoriales y nutricionales. Comprender su estructura y propiedades permite optimizar su calidad para el consumo.
           .row.align-items-center.mb-4
             .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
               .p-4.bg-c2

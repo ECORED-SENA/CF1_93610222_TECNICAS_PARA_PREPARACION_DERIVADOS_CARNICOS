@@ -71,13 +71,11 @@
       .col-12
         .px-5
           .row.mb-2.ms-0
-            .col-auto.bg-c3(data-aos="fade-left")
+            .col-auto.bg-c20(data-aos="fade-left")
               .row.align-items-center
-                .col-auto.px-0
-                  figure
-                    img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
                 .col
-                  h3.mb-0 Mecanismos en la generación del aroma en la carne
+                  .p-2
+                    h3.mb-0 Mecanismos en la generación del aroma en la carne
           p(data-aos="fade-right") El aroma de la carne se genera a través de diferentes mecanismos:
           .row.justify-content-center.mb-5
             .col-lg-10(data-aos="fade-down")
@@ -114,7 +112,7 @@
                     img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
                 .col
                   h3.mb-0 Reacción de Maillard
-          p(data-aos="fade-right") La Reacción de Maillard ocurre cuando las proteínas desnaturalizadas se combinan con los azúcares presentes en la carne, formando compuestos volátiles y modificando su color.
+          p(data-aos="fade-right") La #[b Reacción de Maillard] ocurre cuando las proteínas desnaturalizadas se combinan con los azúcares presentes en la carne, formando compuestos volátiles y modificando su color.
           .row.justify-content-center
             .col-lg-10(data-aos="fade-down")
               .row
@@ -137,8 +135,8 @@
                           li.d-flex
                             i.far.fa-arrow-alt-circle-right
                             |
-                            p.mb-0 Se conoce como oscurecimiento no enzimático y produce un aroma a caramelo tostado y cárnico.
-    p.mb-4(data-aos="fade-right") #[b Los compuestos volátiles generados por la Reacción de Maillard se pueden clasificar en tres grupos:]
+                            p.mb-0 Se conoce como #[b oscurecimiento no enzimático] y produce un aroma a caramelo tostado y cárnico.
+    p.mb-4(data-aos="fade-right") Los compuestos volátiles generados por la Reacción de Maillard se pueden clasificar en tres grupos:
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-down")
         .row
@@ -166,13 +164,11 @@
       .col-12
         .px-5
           .row.mb-2.ms-0
-            .col-auto.bg-c3(data-aos="fade-left")
+            .col-auto.bg-c20(data-aos="fade-left")
               .row.align-items-center
-                .col-auto.px-0
-                  figure
-                    img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
                 .col
-                  h3.mb-0 Factores que modifican la formación del aroma a carne
+                  .p-2
+                    h3.mb-0 Factores que modifican la formación del aroma a carne
           p.mb-4(data-aos="fade-right") El aroma de la carne no depende solo de la concentración de precursores químicos, sino también de diversos factores como:
           .row.justify-content-center.mb-5
             .col-lg-10(data-aos="fade-down")
@@ -232,11 +228,11 @@
                           li.d-flex
                             i.far.fa-arrow-alt-circle-right
                             |
-                            p.mb-0 A pH bajo, se favorece el reordenamiento de productos de condensación.
+                            p.mb-0 A pH #[b bajo], se favorece el reordenamiento de productos de condensación.
                           li.d-flex
                             i.far.fa-arrow-alt-circle-right
                             |
-                            p.mb-0 A pH alto, se favorece la formación de reductonas y aldehídos insaturados.
+                            p.mb-0 A pH #[b alto], se favorece la formación de reductonas y aldehídos insaturados.
                           li.d-flex
                             i.far.fa-arrow-alt-circle-right
                             |
@@ -250,7 +246,7 @@
               img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
           .col
             h3.mb-0 Efecto del manejo #[i post-mortem]
-    p.mb-4(data-aos="fade-right") El proceso de maduración de la carne influye en el aroma:
+    p.mb-4(data-aos="fade-right") El proceso de #[b maduración de la carne] influye en el aroma:
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-down")
         .row
@@ -285,7 +281,7 @@
                     img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
                 .col
                   h3.mb-0 Efecto de los antioxidantes naturales
-          p.mb-4(data-aos="fade-right") Algunos compuestos antioxidantes presentes en la carne, como el alfa-tocoferol (vitamina E), pueden influir en la estabilidad del aroma.
+          p.mb-4(data-aos="fade-right") Algunos compuestos antioxidantes presentes en la carne, como el #[b alfa-tocoferol (vitamina E)], pueden influir en la estabilidad del aroma.
           .row.mb-5
             .col-md-6.mb-4.mb-lg-0(data-aos="fade-right")
               .p-4.bg-c18
@@ -294,7 +290,7 @@
                     figure
                       img(src='@/assets/curso/tema3/img11.png', alt='', style="width: 160px").m-auto
                   .col
-                    p.mb-0 Los tocoferoles reducen la oxidación de lípidos y prolongan la estabilidad del aroma.
+                    p.mb-0 Los #[b tocoferoles] reducen la oxidación de lípidos y prolongan la estabilidad del aroma.
             .col-md-6(data-aos="fade-left")
               .p-4.bg-c18
                 .row.align-items-center
@@ -333,7 +329,7 @@
                           li.d-flex
                             i.far.fa-arrow-alt-circle-right
                             |
-                            p.mb-0 #[b Estado de las fibras musculares:] si la carne está en rigor mortis, será más dura.
+                            p.mb-0 #[b Estado de las fibras musculares:] si la carne está en #[b rigor mortis], será más dura.
                           li.d-flex
                             i.far.fa-arrow-alt-circle-right
                             |
@@ -347,13 +343,11 @@
                             |
                             p.mb-0 #[b Método de enfriamiento:] la congelación rápida puede endurecer la carne si se realiza antes del rigor mortis.
           .row.mb-2.ms-0
-            .col-auto.bg-c3(data-aos="fade-left")
+            .col-auto.bg-c20(data-aos="fade-left")
               .row.align-items-center
-                .col-auto.px-0
-                  figure
-                    img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
                 .col
-                  h3.mb-0 Textura de la carne para el consumo directo
+                  .p-2
+                    h3.mb-0 Textura de la carne para el consumo directo
           p.mb-4(data-aos="fade-right") El concepto de ternura se asocia con la facilidad para cortar y masticar la carne. Esta se puede mejorar mediante:
           .row.justify-content-center
             .col-lg-10(data-aos="fade-down")

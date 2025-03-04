@@ -14,7 +14,7 @@
               .row.h-100.align-items-center
                 .col-12
                   .p-4
-                    p.mb-0 La carne está constituida por diversos compuestos, de los cuales el agua es el más abundante, representando más del 70 % de su estructura. Le siguen las proteínas, que constituyen aproximadamente 20 %, y la grasa intermuscular, que no supera el 3 %. El resto de los componentes incluyen sales, vitaminas y carbohidratos
+                    p.mb-0 La carne está constituida por diversos compuestos, de los cuales el agua es el más abundante, representando más del #[b 70 %] de su estructura. Le siguen las proteínas, que constituyen aproximadamente #[b 20 %], y la grasa intermuscular, que no supera el #[b 3 %]. El resto de los componentes incluyen sales, vitaminas y carbohidratos
             .col-lg-auto.order-1.order-lg-2.ps-lg-0.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/tema2/img1.svg', alt='', style="width: 360px").m-auto
@@ -22,7 +22,7 @@
           #t_2_1
           .titulo-segundo.color-acento-contenido
             h2 2.1. Proteínas
-          p(data-aos="fade-right") Las proteínas cárnicas son fundamentales en los cambios post-mortem y en la transformación de músculo a carne. Son los principales constituyentes de la materia seca del músculo estriado y desempeñan un papel crucial en la dieta humana.
+          p(data-aos="fade-right") Las proteínas cárnicas son fundamentales en los cambios #[i post-mortem] y en la transformación de músculo a carne. Son los principales constituyentes de la materia seca del músculo estriado y desempeñan un papel crucial en la dieta humana.
           p.mb-5(data-aos="fade-right") En la composición química de la carne se pueden encontrar varios tipos de proteínas:
           .row.mb-2.ms-0
             .col-auto.bg-c3(data-aos="fade-left")
@@ -32,7 +32,7 @@
                     img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
                 .col
                   h3.mb-0 Proteína de estroma
-          p(data-aos="fade-right") Las proteínas de estroma son insolubles (colágeno, elastina) y constituyen aproximadamente 15 % del total de las proteínas. Forman parte del tejido conectivo del músculo y están asociadas a la dureza de la carne.
+          p(data-aos="fade-right") Las proteínas de estroma son #[b insolubles] (colágeno, elastina) y constituyen aproximadamente #[b 15 %] del total de las proteínas. Forman parte del tejido conectivo del músculo y están asociadas a la dureza de la carne.
           .row.justify-content-center
             .col-md-8.col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
               .p-4.bg-c10
@@ -63,7 +63,7 @@
                     img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
                 .col
                   h3.mb-0 Proteínas sarcoplásmicas
-          p(data-aos="fade-right") Estas proteínas son solubles en agua y se encuentran en el citoplasma celular. La más relevante es la globulina (albúmina).
+          p(data-aos="fade-right") Estas proteínas son #[b solubles en agua] y se encuentran en el citoplasma celular. La más relevante es la #[b globulina (albúmina)].
           .row.justify-content-center.mb-4
             .col-lg-10(data-aos="fade-down")
               .row
@@ -78,11 +78,11 @@
                           li.d-flex
                             i.far.fa-arrow-alt-circle-right
                             |
-                            p.mb-0 Una de las principales proteínas sarcoplásmicas es la mioglobina, una heteroproteína compuesta por un grupo hemo y una molécula de globina. Su función es estabilizar los puentes de hidrógeno, permitiendo interacciones hidrofóbicas.
+                            p.mb-0 Una de las principales proteínas sarcoplásmicas es la #[b mioglobina], una heteroproteína compuesta por un grupo hemo y una molécula de globina. Su función es estabilizar los puentes de hidrógeno, permitiendo interacciones hidrofóbicas.
                           li.d-flex
                             i.far.fa-arrow-alt-circle-right
                             |
-                            p.mb-0 La mioglobina es la responsable del color rojo de la carne. Su concentración varía según la especie, edad y nivel de ejercicio del animal.
+                            p.mb-0 La #[b mioglobina] es la responsable del #[b color rojo] de la carne. Su concentración varía según la especie, edad y nivel de ejercicio del animal.
           p(data-aos="fade-right") #[b Las concentraciones de mioglobina en diferentes tipos de carne son:]
           .row.justify-content-center.mb-5
             .col-md-7.col-lg-3.mb-3.mb-lg-0(data-aos="fade-right")
@@ -105,7 +105,7 @@
                     img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
                 .col
                   h3.mb-0 Proteínas miofibrilares
-    p(data-aos="fade-right") Las proteínas miofibrilares son insolubles y constituyen aproximadamente 50 % de las proteínas musculares. Son responsables de la contracción muscular y de la textura de la carne.
+    p(data-aos="fade-right") Las proteínas miofibrilares son #[b insolubles] y constituyen aproximadamente #[b 50 %] de las proteínas musculares. Son responsables de la #[b contracción muscular] y de la textura de la carne.
     .row.justify-content-center.mb-4
       .col-lg-10(data-aos="fade-down")
         .row
@@ -120,12 +120,12 @@
                     li.d-flex
                       i.far.fa-arrow-alt-circle-right
                       |
-                      p.mb-0 Miosina y actina: proteínas contráctiles que permiten la conversión de energía química en energía cinética.
+                      p.mb-0 #[b Miosina] y #[b actina]: proteínas contráctiles que permiten la conversión de energía química en energía cinética.
                     li.d-flex
                       i.far.fa-arrow-alt-circle-right
                       |
-                      p.mb-0 Troponinas y tropomiosinas: reguladoras de la contracción muscular.
-    p(data-aos="fade-right") Estas proteínas pueden formar emulsiones entre agua y grasa durante la cocción, lo que es fundamental en la elaboración de productos cárnicos cocidos. La miosina es la proteína más funcional en este proceso.
+                      p.mb-0 #[b Troponinas] y #[b tropomiosinas]: reguladoras de la contracción muscular.
+    p(data-aos="fade-right") Estas proteínas pueden formar #[b emulsiones] entre agua y grasa durante la cocción, lo que es fundamental en la elaboración de productos cárnicos cocidos. La #[b miosina] es la proteína más funcional en este proceso.
     .row.bg-c1
       .col-12
         .px-5.pt-5
@@ -148,12 +148,12 @@
               .p-4.bg-c4.h-100
                 figure.mb-3
                   img(src='@/assets/curso/tema2/img3.svg', alt='', style="width: 100px").m-auto
-                p.mb-0 Permiten la coagulación de las proteínas, formando geles.
+                p.mb-0 #[b Permiten la coagulación] de las proteínas, formando geles.
             .col-md-6.col-lg-4(data-aos="fade-left")
               .p-4.bg-c4.h-100
                 figure.mb-3
                   img(src='@/assets/curso/tema2/img4.svg', alt='', style="width: 100px").m-auto
-                p.mb-0 Tienen capacidad de retención de agua, lo que influye en la jugosidad y textura de la carne.
+                p.mb-0 #[b Tienen capacidad de retención de agua], lo que influye en la jugosidad y textura de la carne.
           Separador
           #t_2_2
           .titulo-segundo.color-acento-contenido
@@ -184,7 +184,7 @@
           #t_2_3
           .titulo-segundo.color-acento-contenido
             h3 2.3. Grasas
-          p(data-aos="fade-right") Las grasas de la carne están compuestas por carbono, hidrógeno y oxígeno. Son fundamentales para la jugosidad, el sabor y la textura de la carne. Las grasas animales están presentes en un 70 % en forma de triglicéridos, conocidos como grasa verdadera. El 30 % restante se compone de fosfolípidos y colesterol. Los principales ácidos grasos en la carne incluyen:
+          p(data-aos="fade-right") Las grasas de la carne están compuestas por #[b carbono], #[b hidrógeno] y #[b oxígeno]. Son fundamentales para la jugosidad, el sabor y la textura de la carne. Las grasas animales están presentes en un #[b 70 %] en forma de #[b triglicéridos], conocidos como #[b grasa verdadera]. El #[b 30 % restante] se compone de fosfolípidos y colesterol. Los principales #[b ácidos grasos] en la carne incluyen:
           .row.justify-content-center.mb-4
             .col-lg-5.mb-4.mb-lg-0.me-lg-4(data-aos="fade-right")
               .row.justify-content-center
@@ -241,7 +241,7 @@
           table
             thead
               tr
-                th Carnes
+                th(width="20%") Carnes
                 th Saturados (%)
                 th Monoinsaturados (%)
                 th Poliinsaturados (%)
@@ -276,7 +276,7 @@
             .row.h-100.align-items-center
               .col-12
                 .p-4
-                  p.mb-0 El #[b glucógeno] es el principal carbohidrato y está compuesto por #[b glucosa] y #[b fructosa]. Se encuentra en músculos e hígado y, tras el sacrificio del animal, se transforma en ácido láctico debido a condiciones anaeróbicas.
+                  p.mb-0 El #[b glucógeno] es el principal carbohidrato y está compuesto por #[b glucosa] y #[b fructosa]. Se encuentra en músculos e hígado y, tras el sacrificio del animal, se transforma en #[b ácido láctico] debido a condiciones anaeróbicas.
     Separador
     #t_2_5
     .titulo-segundo.color-acento-contenido
@@ -319,7 +319,7 @@
               .p-4.bg-c15.h-100
                 figure.mb-3
                   img(src='@/assets/curso/tema2/img12.png', alt='', style="width: 200px").m-auto
-                p #[b Calcio y magnesio:] intervienen en la dureza de la carne y en la contracción muscular post-mortem.
+                p #[b Calcio y magnesio:] intervienen en la dureza de la carne y en la contracción muscular #[i post-mortem].
             .col-md-5.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
               .p-4.bg-c15.h-100
                 figure.mb-3

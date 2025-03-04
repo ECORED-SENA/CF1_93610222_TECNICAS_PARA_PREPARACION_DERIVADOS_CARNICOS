@@ -35,7 +35,7 @@
               .row.h-100
                 .col-12
                   .p-4.bg-c4.h-100
-                    p.mb-0 A la membrana de las fibras musculares se le conoce como sarcolema y al citoplasma se le denomina sarcoplasma; donde se encuentran las miofibrillas, que se forman por miosina y actina. Estas se muestran como una serie de discos de color claro y oscuro: los claros son elásticos y los oscuros son contráctiles. Los tejidos musculares de la carne también están formados por tejido muscular estriado y tejido muscular liso.
+                    p.mb-0 A la membrana de las fibras musculares se le conoce como #[b sarcolema] y al citoplasma se le denomina #[b sarcoplasma]; donde se encuentran las #[b miofibrillas], que se forman por #[b miosina] y #[b actina]. Estas se muestran como una serie de discos de color claro y oscuro: los claros son elásticos y los oscuros son contráctiles. Los tejidos musculares de la carne también están formados por tejido muscular estriado y tejido muscular liso.
     .row.mb-2.ms-0
       .col-auto.bg-c3(data-aos="fade-left")
         .row.align-items-center
@@ -44,12 +44,14 @@
               img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
           .col
             h3.mb-0 Tejido muscular estriado
-    p(data-aos="fade-right") Las células del músculo estriado están formadas por bandas perpendiculares de eje longitudinal y se dividen en músculo esquelético y músculo cardíaco.
+    p(data-aos="fade-right") Las células del músculo estriado están formadas por bandas perpendiculares de eje longitudinal y se dividen en #[b músculo esquelético] y #[b músculo cardíaco].
     .row.mb-5
       .col-lg-6.bg-c5(data-aos="fade-right")
         .p-4
-          figure.mb-4
-            img(src='@/assets/curso/tema1/img2.png', alt='', style="width: 500px").m-auto
+          .row.mb-4
+            .col-12.bg-c19
+              figure
+                img(src='@/assets/curso/tema1/img2.png', alt='', style="width: 500px").m-auto
           .row.mb-3
             .col-auto
               .px-3.py-2.bg-c6
@@ -57,8 +59,10 @@
           p.mb-0 Se le conoce como voluntario, pues puede producir movimientos conscientes porque está conectado con fibras nerviosas que hacen parte del sistema nervioso central. Estas células son alargadas y fusiformes, además este tejido está asociado al esqueleto y es responsable del movimiento locomotor del animal.
       .col-lg-6.bg-c7(data-aos="fade-left")
         .p-4
-          figure.mb-4
-            img(src='@/assets/curso/tema1/img3.png', alt='', style="width: 530px").m-auto
+          .row.mb-4
+            .col-12.bg-c19
+              figure
+                img(src='@/assets/curso/tema1/img3.png', alt='', style="width: 530px").m-auto
           .row.mb-3
             .col-auto
               .px-3.py-2.bg-c8
@@ -98,10 +102,10 @@
               figure
                 img(src='@/assets/curso/tema1/img5.png', alt='La figura presenta la estructura del músculo esquelético, mostrando sus componentes principales. Se identifican las capas de tejido conectivo: endomisio, perimisio y epimisio, que rodean las fibras musculares individuales, los fascículos y todo el músculo respectivamente.', style="width: 800px").m-auto
     .row
-      .col-3.d-none.d-lg-block(data-aos="fade-right")
+      .col-3.d-none.d-xl-block(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema1/img6.png', alt='', style="width: 300px").m-auto
-      .col-lg-9(data-aos="fade-left")
+      .col-lg(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Epimisio")
             .col-12
