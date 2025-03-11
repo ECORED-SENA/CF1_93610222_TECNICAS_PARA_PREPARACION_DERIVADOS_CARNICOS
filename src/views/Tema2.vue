@@ -234,17 +234,17 @@
                     img(src='@/assets/curso/tema2/img9.png', alt='', style="width: 500px").m-auto
     p(data-aos="fade-right") #[b La siguiente tabla presenta los porcentajes de ácidos grasos en diferentes tipos de carne:]
     .row.justify-content-center
-      .col-lg-8
+      .col-lg-9
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down")
           p.mb-0 #[b Tabla 1.] Porcentaje de grasa en las carnes
         .tabla-a.color-acento-contenido(data-aos="fade-left")
           table
             thead
               tr
-                th(width="20%") Carnes
+                th(width="15%") Carnes
                 th Saturados (%)
-                th Monoinsaturados (%)
-                th Poliinsaturados (%)
+                th(width="30%") Monoinsaturados (%)
+                th(width="30%") Poliinsaturados (%)
             tbody
               tr
                 td Cerdo
