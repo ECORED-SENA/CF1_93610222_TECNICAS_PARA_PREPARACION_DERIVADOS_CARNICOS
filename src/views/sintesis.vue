@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="")
+          img(src="@/assets/curso/sintesis.svg", alt="Síntesis sobre generalidades de la carne, definición, composición con agua, proteínas, grasas, carbohidratos, vitaminas y minerales, y características sensoriales como jugosidad, aroma, sabor y textura.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
