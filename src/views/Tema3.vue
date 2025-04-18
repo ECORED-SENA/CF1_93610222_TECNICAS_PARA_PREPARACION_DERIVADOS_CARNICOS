@@ -99,7 +99,7 @@
                           li.d-flex
                             i.far.fa-arrow-alt-circle-right
                             |
-                            p.mb-0 #[b Reacción de Maillard], que es el principal proceso responsable del aroma de la carne cocida.
+                            p.mb-0 #[b Reacción de #[i Maillard]], que es el principal proceso responsable del aroma de la carne cocida.
                           li.d-flex
                             i.far.fa-arrow-alt-circle-right
                             |
@@ -111,8 +111,8 @@
                   figure
                     img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
                 .col
-                  h3.mb-0 Reacción de Maillard
-          p(data-aos="fade-right") La #[b Reacción de Maillard] ocurre cuando las proteínas desnaturalizadas se combinan con los azúcares presentes en la carne, formando compuestos volátiles y modificando su color.
+                  h3.mb-0 Reacción de #[i Maillard]
+          p(data-aos="fade-right") La #[b reacción de #[i Maillard]] ocurre cuando las proteínas desnaturalizadas se combinan con los azúcares presentes en la carne, formando compuestos volátiles y modificando su color.
           .row.justify-content-center
             .col-lg-10(data-aos="fade-down")
               .row
@@ -136,7 +136,7 @@
                             i.far.fa-arrow-alt-circle-right
                             |
                             p.mb-0 Se conoce como #[b oscurecimiento no enzimático] y produce un aroma a caramelo tostado y cárnico.
-    p.mb-4(data-aos="fade-right") Los compuestos volátiles generados por la Reacción de Maillard se pueden clasificar en tres grupos:
+    p.mb-4(data-aos="fade-right") Los compuestos volátiles generados por la Reacción de #[i Maillard] se pueden clasificar en tres grupos:
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-down")
         .row
@@ -237,7 +237,7 @@
                             i.far.fa-arrow-alt-circle-right
                             |
                             p.mb-0 El descenso del pH #[i post-mortem] es clave en la conversión del músculo a carne.
-    p.mb-5(data-aos="fade-right") Si el pH se ve alterado por el manejo ante-mortem y el sacrificio, se pueden obtener carnes #[b pálidas], #[b suaves] y #[b exudativas] o #[b oscuras], #[b firmes] y #[b secas].
+    p.mb-5(data-aos="fade-right") Si el pH se ve alterado por el manejo #[i ante-mortem] y el sacrificio, se pueden obtener carnes #[b pálidas], #[b suaves] y #[b exudativas] u #[b oscuras], #[b firmes] y #[b secas].
     .row.mb-2.ms-0
       .col-auto.bg-c3(data-aos="fade-left")
         .row.align-items-center

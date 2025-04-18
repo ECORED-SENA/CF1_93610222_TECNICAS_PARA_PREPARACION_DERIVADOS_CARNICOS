@@ -67,7 +67,7 @@
             .col-auto
               .px-3.py-2.bg-c8
                 p.mb-0 #[b Músculo cardíaco]
-          p.mb-0 El músculo cardíaco, está conformado por células mononucleadas que son sistemas complejos de unión intercelular, hacen parte de las paredes musculares del corazón y su función principal es la contracción muscular, este movimiento está controlado por el sistema nervioso autónomo.
+          p.mb-0 El músculo cardíaco está conformado por células mononucleadas que son sistemas complejos de unión intercelular, hacen parte de las paredes musculares del corazón y su función principal es la contracción muscular; Este movimiento está controlado por el sistema nervioso autónomo.
     .row.mb-2.ms-0
       .col-auto.bg-c3(data-aos="fade-left")
         .row.align-items-center

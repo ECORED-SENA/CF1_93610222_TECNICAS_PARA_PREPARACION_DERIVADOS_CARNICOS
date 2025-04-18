@@ -175,7 +175,7 @@ export default {
         'capa externa del músculo compuesta por tejido conectivo que agrupa las fibras musculares en secciones.',
     },
     {
-      termino: 'Reacción de Maillard',
+      termino: 'Reacción de <i>Maillard</i>',
       significado:
         'proceso químico entre proteínas y azúcares que ocurre durante la cocción, generando coloración y aroma en la carne.',
     },
@@ -247,7 +247,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de línea de producción huila',
           centro: 'Dirección General',
         },
       ],
@@ -259,13 +259,13 @@ export default {
           nombre: 'Ángela Viviana Páez Perilla',
           cargo: 'Experta temática',
           centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
         },
         {
           nombre: 'Paola Alexandra Moya',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
         },
       ],
     },
@@ -274,33 +274,33 @@ export default {
       autores: [
         {
           nombre: 'Carlos Julián Ramírez Benítez',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
         },
         {
           nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
         },
         {
           nombre: 'Cristhian Giovanni Gordillo Segura',
-          cargo: 'Intérprete Lenguaje de señas',
+          cargo: 'Intérprete lenguaje de señas',
           centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
         },
         {
           nombre: 'Daniela Muñoz Bedoya',
-          cargo: 'Animador y Productor Multimedia',
+          cargo: 'Animador y productor multimedia',
           centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
         },
         {
           nombre: 'Andrés Felipe Guevara Ariza',
           cargo: 'Locución',
           centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
         },
       ],
     },
@@ -309,15 +309,15 @@ export default {
       autores: [
         {
           nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
         },
         {
           nombre: 'Raúl Mosquera Serrano',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
         },
       ],
     },

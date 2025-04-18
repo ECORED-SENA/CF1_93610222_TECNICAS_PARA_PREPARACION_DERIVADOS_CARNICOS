@@ -14,7 +14,7 @@
               .row.h-100.align-items-center
                 .col-12
                   .p-4
-                    p.mb-0 La carne está constituida por diversos compuestos, de los cuales el agua es el más abundante, representando más del #[b 70 %] de su estructura. Le siguen las proteínas, que constituyen aproximadamente #[b 20 %], y la grasa intermuscular, que no supera el #[b 3 %]. El resto de los componentes incluyen sales, vitaminas y carbohidratos
+                    p.mb-0 La carne está constituida por diversos compuestos, de los cuales el agua es el más abundante, representando más del #[b 70 %] de su estructura. Le siguen las proteínas, que constituyen aproximadamente #[b 20 %], y la grasa intermuscular, que no supera el #[b 3 %]. El resto de los componentes incluyen sales, vitaminas y carbohidratos.
             .col-lg-auto.order-1.order-lg-2.ps-lg-0.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/tema2/img1.svg', alt='', style="width: 360px").m-auto
@@ -92,11 +92,11 @@
             .col-md-7.col-lg-3.mb-3.mb-lg-0(data-aos="fade-up")
               .p-3.bg-c6.h-100
                 p.mb-0 Carnes viejas:
-                p.mb-0 #[b 20 mg/gramo]
+                p.mb-0 #[b 20 mg/gramo.]
             .col-md-7.col-lg-3(data-aos="fade-left")
               .p-3.bg-c6.h-100
                 p.mb-0 Carnes blancas (ternera y cerdo):
-                p.mb-0 #[b 3 mg/gramo]
+                p.mb-0 #[b 3 mg/gramo.]
           .row.mb-2.ms-0
             .col-auto.bg-c3(data-aos="fade-left")
               .row.align-items-center
