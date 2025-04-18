@@ -259,13 +259,13 @@ export default {
           nombre: 'Ángela Viviana Páez Perilla',
           cargo: 'Experta temática',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paola Alexandra Moya',
           cargo: 'Evaluadora instruccional',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -276,31 +276,31 @@ export default {
           nombre: 'Carlos Julián Ramírez Benítez',
           cargo: 'Diseñador de contenidos digitales',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Cristhian Giovanni Gordillo Segura',
           cargo: 'Intérprete lenguaje de señas',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Daniela Muñoz Bedoya',
           cargo: 'Animador y productor multimedia',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Andrés Felipe Guevara Ariza',
           cargo: 'Locución',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -311,13 +311,13 @@ export default {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de recursos educativos digitales',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Raúl Mosquera Serrano',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
