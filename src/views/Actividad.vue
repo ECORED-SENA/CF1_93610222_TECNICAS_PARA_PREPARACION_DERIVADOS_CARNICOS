@@ -22,6 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> Evaluar el conocimiento sobre la estructura, composición química y características sensoriales de la carne, mediante la identificación de conceptos clave relacionados con su contenido nutricional, procesos químicos y factores que afectan su calidad.',
       barajarPreguntas: true,
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
